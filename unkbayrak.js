@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Add Custom Game History to Local Storage
+// @name         CUSTOM UNK
 // @namespace    http://wolvesville.com/
 // @version      0.1
 // @description  CUSTOM UNK
